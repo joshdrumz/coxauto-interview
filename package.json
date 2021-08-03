@@ -1,0 +1,14 @@
+{
+  "name": "coxauto-interview",
+  "version": "1.0.0",
+  "description": "Cox Automotive API Programming Challenge",
+  "main": "answer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Arrants",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
